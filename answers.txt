@@ -1,23 +1,23 @@
 Q1. What is your first and last name? (This is important so that we can link your GitHub username to you.)
 
-A1. <WRITE YOUR ANSWER TO Q1 HERE>
+A1. Townes King
 
 Q2. Do you have any programming experience? If so, how much, and what programming languages have you used?
 
-A2. <WRITE YOUR ANSWER TO Q2 HERE>
+A2. I do have some experience, I took three years of CS in highschool, most of that class was in C# with Unity. I also have some experience with C++ from working with microcontrollers. I would say I am somewhat profficent in both and I have some passing experience in Python as well as C.
 
 Q3. Do you have experience writing code in C++?
 
-A3. <WRITE YOUR ANSWER TO Q3 HERE>
+A3. I do have some experience in C++ mosty working with microcontrollers maybe I would say 80-100 hours of dev time.
 
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
-A4. <WRITE YOUR ANSWER TO Q4 HERE>
+A4. Yes there is a lot that learning algorythmic thinking can do to help someone in how they adress problems. Also there are a lot of times where it might be useful to write a scipt for something and having some understanding of a language like python can be really useful for the automation of simple things.
 
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
-A5. <WRITE YOUR ANSWER TO Q5 HERE>
+A5. I personally do as it helps me a lot in my personal life but I have a kind of non standard situation. I spend a lot of my free time working with/on computers and also am somewhat interested in linux thus I end up spending a good chunk of time working with programing. I do also like to play programing related games like TIS-100.
 
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
-A6. <WRITE YOUR ANSWER TO Q6 HERE>
+A6. Not that I can think of, I am wanting to go on to study to do semiconductor design and that will envolve me taking a lot more classes in programing for my ECE degree and with that it will be a lot of low level classes but it is something I can teach myself no reason to take up time for the whole class for something not useful to most.
